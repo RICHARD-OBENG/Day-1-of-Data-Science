@@ -32,3 +32,6 @@ Where:
 
 ## Project source code
  - <a href = "https://github.com/RICHARD-OBENG/Day-1-of-Data-Science/blob/main/Day_1.ipynb">Source code</a>
+
+## Download project
+ -<a href = "https://github.com/RICHARD-OBENG/Day-1-of-Data-Science">Project Download</a>

@@ -28,7 +28,7 @@ Where:
 - R-squared (R²): Represents the proportion of the variance in the dependent variable that is predictable from the independent variable(s). Values closer to 1 indicate a better fit.
 
 - ## Libraries
-- <a href = "https://github.com/RICHARD-OBENG/Day-1-of-Data-Science/tree/main/Lib/site-packages">Libraries"</a>
+- <a href = "https://github.com/RICHARD-OBENG/Day-1-of-Data-Science/tree/main/Lib/site-packages">Libraries</a>
 
   ## Project source code
   - <a href = "https://github.com/RICHARD-OBENG/Day-1-of-Data-Science/blob/main/Day_1.ipynb">Source code</a>

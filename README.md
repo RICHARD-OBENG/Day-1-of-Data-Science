@@ -27,8 +27,8 @@ Where:
 - Mean Squared Error (MSE): Measures the average squared difference between the actual and predicted values. Lower values indicate better performance.
 - R-squared (R²): Represents the proportion of the variance in the dependent variable that is predictable from the independent variable(s). Values closer to 1 indicate a better fit.
 
-- ## Libraries
+## Libraries
 - <a href = "https://github.com/RICHARD-OBENG/Day-1-of-Data-Science/tree/main/Lib/site-packages">Libraries</a>
 
-  ## Project source code
+## Project source code
   - <a href = "https://github.com/RICHARD-OBENG/Day-1-of-Data-Science/blob/main/Day_1.ipynb">Source code</a>
